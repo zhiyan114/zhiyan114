@@ -3,5 +3,4 @@
 
 My Public GPG Key:
 * Fingerprint: `CBF0 EF28 B510 E63F 83A1  2022 86B0 F166 EE0A 4413`
-* With Email: https://pastebin.com/raw/2szKhQie
-* Without Email: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xcbf0ef28b510e63f83a1202286b0f166ee0a4413
+* Key: https://pastebin.com/raw/2szKhQie
